@@ -137,7 +137,7 @@ python linkharvester.py example.com --ua "Mozilla/5.0 (compatible; MyCrawler/1.0
 
 ## লাইসেন্স
 
-[**MIT License**](https://github.com/DeV1LN1H4d/LinkHarvester/blob/main/LICENSE)
+[**License**](https://github.com/DeV1LN1H4d/LinkHarvester/blob/main/LICENSE)
 
 ---
 
