@@ -23,7 +23,7 @@
 ## সিস্টেম রিকোয়ারমেন্ট
 
 - **Python** 3.9+
-- Windows / macOS / Linux – যেকোনো একটিতে কাজ করবে
+- Termux / Windows / macOS / Linux – যেকোনো একটিতে কাজ করবে
 
 ---
 
